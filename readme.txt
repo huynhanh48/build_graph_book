@@ -12,4 +12,7 @@ def cosine_similarity(embedding1, embedding2):
     similarity = dot_product / (magnitude1 * magnitude2)
     
     return similarity
-    
+
+cosin_similarity = A*B/||A||*||B||
+dot(A,B)
+sqrt(a1^2...an^2) 
